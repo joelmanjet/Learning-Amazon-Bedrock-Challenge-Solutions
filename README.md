@@ -8,5 +8,5 @@ In this course, principal cloud technologist **Lee Assam** introduces Amazon Bed
 - Build a Generative AI application with **Streamlit**.
 
 ## Solution Files:
-- [Challenge #1(Generate Image With Titan)](joelmanjet/Learning-Amazon-Bedrock-Challenge-Solutions/Challenge1Sol.png)
+- [Challenge #1(Generate Image With Titan)](/Challenge1Sol.png)
 
