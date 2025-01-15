@@ -9,5 +9,5 @@ In this course, principal cloud technologist **Lee Assam** introduces Amazon Bed
 
 ## Solution Files:
 - [Challenge #1(Generate Image With Titan)](/Challenge1Sol.png)
-- [Challenge #2(Prompt Titan To Generate Tips)](/CreateChallenge2_02_03b)
+- [Challenge #2(Prompt Titan To Generate Tips)](/Challenge2_02_03b)
 
