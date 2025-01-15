@@ -12,4 +12,5 @@ In this course, principal cloud technologist **Lee Assam** introduces Amazon Bed
 - [Challenge #2(Prompt Titan Model To Generate Tips For Leaders)](/Challenge2_02_03b)
 - [Challenge #3(Prompt Claude Model To Generate Email Template Using LLMs)](/Challenge3_02_05b)
 - [Challenge #4(Prompt AI21 Labs Model To Generate A Translation From English To French)](/Challenge4_02_06)
+- [Challenge #5(Using LLM Model To Create A ChatBot To Assist Users With Policies From A PDF Doc.)](/Challenge5_03_04b)
 
